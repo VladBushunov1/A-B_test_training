@@ -5,3 +5,4 @@ https://colab.research.google.com/drive/1ltDNUn63hZzgGmIqaqLk4ZdRZBJrhfvT
 https://colab.research.google.com/drive/1V0jisa95iTQc5rg_2poplbIwBf0bgwWN
 # Заодно Пандас 
 https://colab.research.google.com/drive/1kDbK6c4xjZEEwM4YO2mXVI39YdSwYLPq?usp=sharing
+https://colab.research.google.com/drive/1-Jxb_6axvdSkMX2urRmrad1BbVKEovMF?usp=sharing
